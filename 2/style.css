@@ -1,0 +1,62 @@
+img {
+    width: 400px;
+    height: 200px;
+    border-color: rgb(241, 66, 101);
+    border-style: ridge;
+    border-width: 7px;
+}
+
+#titulo {
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: rgb(158, 250, 245) 2px 2px;
+    line-height: 10vh;
+    margin-right: 400px;
+}
+
+#paragrafos {
+    font-size: 20px;
+    background-color: rgb(172, 255, 251);
+    border-style: double;
+    border-color: rgb(231, 0, 0);
+    border-width: 10px;
+    margin-right: 600px;
+    padding: 10px;
+}
+
+
+header {
+    border-style: solid;
+    border-color: rgb(233, 43, 43);
+    border-width: 10px;
+    height: 100px;
+    background-color: rgb(64, 242, 255);
+    position: fixed;
+    
+}
+
+.imagens {
+    position: fixed;
+    top: 2;
+    right: 0;
+}
+
+#titulo2 {
+     font-size: 3vh;
+     margin-top: 130px;
+ }
+
+ footer {
+    border-style: solid;
+    border-color: rgb(196, 17, 17);
+    border-width: 10px;
+    background-color: rgb(60, 211, 231);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
+
+ body {
+     background-color:rgb(134, 134, 204);
+ }
